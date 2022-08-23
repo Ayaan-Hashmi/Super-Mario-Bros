@@ -1,13 +1,7 @@
-# Super Mario Implementation in Python
-
-## Creator 
+This Super-Mario game is created and licensed by-
 
 Ayaan Hashmi
-
-Class IX-G
-
 Mayoor School Noida
-
 India
 
 ## Running
@@ -26,7 +20,7 @@ India
 * Right: Move right  //Right Arror
 * Space: Jump       //Up Arror
 * Shift: Boost   
-* Left/Right Mouseclick: Secret   
+* Left/Right Mouseclick: Extra enemies and coins   
 
 ## Current state:
 ![Alt text](img/pics.png "current state")
