@@ -1,4 +1,4 @@
-# Super Mario Bros Clone - Ayaan Hashmi
+# Super Mario Bros - Ayaan Hashmi
 
 ## Overview
 
