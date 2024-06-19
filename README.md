@@ -1,28 +1,16 @@
-This Super-Mario game is created and licensed by-
+# Super Mario Bros Clone - Ayaan Hashmi
 
-Ayaan Hashmi
+## Overview
 
-## Running
+This project is a faithful clone of the classic Super Mario Bros game, developed and licensed by **Ayaan Hashmi**. Experience the iconic gameplay with simple controls and retro graphics.
 
-* $ pip install -r requirements.txt
-* $ python main.py
+## Getting Started
 
-## Standalone windows build
+### Installation
 
-* $ pip install py2exe
-* $ python compile.py py2exe
+1. **Clone the Repository:**
 
-## Controls
-
-* Left: Move left / Left Arrow
-* Right: Move right / Right Arror
-* Space: Jump / Up Arror
-* Shift: Boost   
-* Left/Right Mouseclick: Extra enemies and coins   
-
-## Current state:
-![Alt text](img/pics.png "current state")
-
-## Dependencies	
-* pygame	
-* scipy	
+   ```bash
+   git clone https://github.com/your-username/super-mario-bros-clone.git
+   cd super-mario-bros-clone
+   ```
