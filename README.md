@@ -1,8 +1,6 @@
 This Super-Mario game is created and licensed by-
 
 Ayaan Hashmi
-Mayoor School Noida
-India
 
 ## Running
 
@@ -16,9 +14,9 @@ India
 
 ## Controls
 
-* Left: Move left  // Left Arrow
-* Right: Move right  //Right Arror
-* Space: Jump       //Up Arror
+* Left: Move left / Left Arrow
+* Right: Move right / Right Arror
+* Space: Jump / Up Arror
 * Shift: Boost   
 * Left/Right Mouseclick: Extra enemies and coins   
 
