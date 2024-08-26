@@ -32,10 +32,10 @@ This is a faithful recreation of the classic Super Mario Bros game developed by 
    ```
 
 ### Controls:
-Move Left: Left Arrow Key
-Move Right: Right Arrow Key
-Jump: Up Arrow Key / Spacebar
-Boost: Shift Key
+Move Left: Left Arrow Key <br>
+Move Right: Right Arrow Key <br>
+Jump: Up Arrow Key / Spacebar <br>
+Boost: Shift Key <br>
 Extra Enemies & Coins: Left/Right Mouse Click
 
 ### Current State:
