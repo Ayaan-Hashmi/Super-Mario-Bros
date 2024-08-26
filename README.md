@@ -16,8 +16,8 @@ This is a faithful recreation of the classic Super Mario Bros game developed by 
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/your-username/super-mario-bros-clone.git
-   cd super-mario-bros-clone
+   git clone https://github.com/Ayaan-Hashmi/Super-Mario-Bros.git
+   cd super-mario-bros
    ```
 
 2. **Installing Dependencies:**
