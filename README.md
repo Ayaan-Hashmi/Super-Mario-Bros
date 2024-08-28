@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a faithful recreation of the classic Super Mario Bros game developed by **Ayaan Hashmi**, featuring iconic gameplay mechanics, original-level design, and retro graphics.
+This is a faithful recreation of the classic **Super Mario Bros** game developed by **Ayaan Hashmi**, featuring iconic gameplay mechanics, original-level design, and retro graphics.
 
 ## Dependencies
 
