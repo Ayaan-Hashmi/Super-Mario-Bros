@@ -28,7 +28,7 @@ This is a faithful recreation of the classic **Super Mario Bros** game developed
 
 3. **Run the game:**
    ```
-   python main.py
+   python super-mario-bros.py
    ```
 
 ### Controls:
